@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":231,"indent":0,"parameters":[41,"地下一楼",0,0,100,100,50,50,255,0]},{"code":230,"indent":0,"parameters":[200]},{"code":235,"indent":0,"parameters":[41]},{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":231,"indent":0,"parameters":[42,"一楼（大厅部分）",0,0,100,100,50,50,255,0]},{"code":230,"indent":0,"parameters":[200]},{"code":235,"indent":0,"parameters":[42]},{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":231,"indent":0,"parameters":[43,"二楼",0,0,100,100,50,50,255,0]},{"code":230,"indent":0,"parameters":[200]},{"code":235,"indent":0,"parameters":[43]},{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":231,"indent":0,"parameters":[44,"一楼（解开大门之后内部）",0,0,100,100,50,50,255,0]},{"code":230,"indent":0,"parameters":[200]},{"code":235,"indent":0,"parameters":[44]},{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
